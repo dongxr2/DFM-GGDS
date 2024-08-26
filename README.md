@@ -1,4 +1,4 @@
-# DFM-GGDS
+# RS-DataFusion
 
 Welcome to the repository for our research paper titled "Data Fusion and Models Integration for Enhanced Semantic Segmentation in Remote Sensing". This repository will be regularly updated following the publication of our paper to include the following key resources:
 
@@ -10,4 +10,5 @@ This section will include scripts and guidelines for training semantic segmentat
 
 3. GGDS Dataset
 We will release the GGDS Dataset, a novel dataset created by fusing data from Google Maps and GlobeLand30. This dataset is specifically curated for training and evaluating semantic segmentation models in the context of remote sensing. Detailed descriptions, download links, and usage instructions will be provided.
+
 Stay tuned for updates!
